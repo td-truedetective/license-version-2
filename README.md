@@ -1,1 +1,0 @@
-# license-version-2
